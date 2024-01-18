@@ -13,7 +13,7 @@ Contribute to and enhance the curriculum. Your feedback and improvements are hig
 
 # 📂 Curriculum Structure
 
-# 👩‍💻 How to Contribute:
+# 👨‍💻 How to Contribute:
 - Fork the repository and make your contributions.
 - Submit issues for feedback, suggestions, or bug reports.
 - Join discussions and help fellow learners in the community.
